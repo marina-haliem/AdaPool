@@ -65,6 +65,9 @@ The tt_map needs to be recreated when you change simulation settings such as MAX
 ### 10. Change simulation settings
 You can find simulation setting files in `src/config/settings` and `src/simulator/settings`.
 
+## © CLAN Labs, Purdue.
+
+
 ## Please cite the following papers if using any part of the code:
 
 Marina Haliem, Ganapathy Mani, Vaneet Aggarwal, Bharat Bhargava, "A Distributed Model-Free Ride-Sharing Approach for Joint Matching, Pricing, and Dispatching using Deep Reinforcement Learning", Arxiv Pre-Print. @article{haliem2020distributed, title={A distributed model-free ride-sharing approach for joint matching, pricing, and dispatching using deep reinforcement learning}, author={Haliem, Marina and Mani, Ganapathy and Aggarwal, Vaneet and Bhargava, Bharat}, journal={arXiv preprint arXiv:2010.01755}, year={2020} }
