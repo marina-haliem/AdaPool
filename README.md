@@ -1,4 +1,4 @@
-# AdaPool: An Adaptive Model-Free RideSharing Framework using Deep Reinforcement Learning
+# AdaPool: A Diurnal-Adaptive Fleet Management Framework using Model-Free Deep Reinforcement Learning and Change Point Detection
 
 ## These are the steps to generate the data files that serve as our dataset. These are already generated and provided @:
 
