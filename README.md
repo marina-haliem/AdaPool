@@ -1,10 +1,11 @@
 # AdaPool: A Diurnal-Adaptive Fleet Management Framework using Model-Free Deep Reinforcement Learning and Change Point Detection
-
-## These are the steps to generate the data files that serve as our dataset. These are already generated and provided @:
-
-https://purr.purdue.edu/projects/ridesharing/files
+ M. Haliem, V. Aggarwal, and B. Bhargava, “AdaPool: An Adaptive Model-Free Ride-Sharing Approach for Dispatching using Deep Reinforcement Learning”, Accepted and published, IEEE Transactions on Intelligent Transportation Systems, (T-ITS).
 
 This project is in python 3.7 and tesnorflow 1.15.0
+
+## These are the steps to generate the data files that serve as our dataset. These are already generated and provided @:
+https://purr.purdue.edu/projects/ridesharing/files
+
 ## Setup
 Below you will find step-by-step instructions to set up the NYC taxi simulation using 2016-05 trips for training and 2016-06 trips for evaluation.
 ### 1. Download OSM Data
