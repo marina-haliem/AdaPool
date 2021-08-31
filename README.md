@@ -3,11 +3,11 @@
 
 This project is in python 3.7 and tesnorflow 1.15.0
 
-## These are the steps to generate the data files that serve as our dataset. These are already generated and provided @:
-https://purr.purdue.edu/projects/ridesharing/files
+## Data Generation
+The user can choose to either go through the pre-processing steps mentioned below to generate the data, or just fetch the pre-processed files directly from:  https://purr.purdue.edu/publications/3843/1, load them into a directory, and set the DATA_DIR variable in config/settings.py
 
-## Setup
 Below you will find step-by-step instructions to set up the NYC taxi simulation using 2016-05 trips for training and 2016-06 trips for evaluation.
+
 ### 1. Download OSM Data
 ```commandline
 wget https://download.bbbike.org/osm/bbbike/NewYork/NewYork.osm.pbf -P osrm
